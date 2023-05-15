@@ -17,9 +17,9 @@ To publish this project as a static site on GitHub Pages:
     mkdocs serve
     ```
 
-> **Note:**
->
-> To stop the server, press <kbd>Ctrl</kbd> + <kbd>C</kbd> in the terminal.
+    > **Note:**
+    >
+    > To stop the server, press <kbd>Ctrl</kbd> + <kbd>C</kbd> in the terminal.
 
 1. Run this command:
 
