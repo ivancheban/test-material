@@ -21,8 +21,3 @@ To publish this project as a static site on GitHub Pages:
     >
     > To stop the server, press <kbd>Ctrl</kbd> + <kbd>C</kbd> in the terminal.
 
-1. Run this command:
-
-    ```sh
-    mkdocs gh-deploy --force
-    ```
