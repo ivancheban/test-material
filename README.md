@@ -8,8 +8,18 @@ To publish this project as a static site on GitHub Pages:
     git clone https://github.com/ivancheban/test-material.git
 
     cd test-material
-    
+
     ```
+
+1. Start the local development server:
+
+    ```sh
+    mkdocs serve
+    ```
+
+> **Note:**
+>
+> To stop the server, press <kbd>Ctrl</kbd> + <kbd>C</kbd> in the terminal.
 
 1. Run this command:
 
