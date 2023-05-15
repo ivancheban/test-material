@@ -6,7 +6,9 @@ To publish this project as a static site on GitHub Pages:
 
     ```sh
     git clone https://github.com/ivancheban/test-material.git
+
     cd test-material
+    
     ```
 
 1. Run this command:
